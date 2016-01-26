@@ -1,4 +1,5 @@
 /* your code should go here */
+$(document).ready(function(){
 
 var tmp="<li>" +
           "<div class='icon'>" +
@@ -60,6 +61,6 @@ var View = {
 
 Controller.init();
 
-
+});
 
 
